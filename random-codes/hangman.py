@@ -3,7 +3,7 @@ from os import system
 from string import ascii_lowercase
 from sys import platform
 
-filename = "./wordlist.txt"
+filename = "./wordlist"
 life = 6 
 
 if platform.startswith("linux"):
